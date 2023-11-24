@@ -1,4 +1,4 @@
-// Copyright [2018] <Rafael Correa Bitencourt>
+// Copyright [2023] <Rafael Correa Bitencourt>
 
 #ifndef STRUCTURES_ARRAY_LIST_H
 #define STRUCTURES_ARRAY_LIST_H
